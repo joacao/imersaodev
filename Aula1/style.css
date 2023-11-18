@@ -1,7 +1,7 @@
 body {
     font-family: "Roboto Mono", monospace;
     text-align: center;
-    background-image: url("https://caelum-online-public.s3.amazonaws.com/assets-imersaodev/Background.png");
+    background-image: url("https://www.fatosdesconhecidos.com.br/wp-content/uploads/2022/03/interestelar-07-1920x1080.jpg");
     background-color: #000000;
     background-size: cover;
     background-position: center top;
@@ -15,7 +15,7 @@ body {
   }
   
   .page-title {
-    color: #ffffff;
+    color: gold;
     margin: 0 0 5px;
   }
   
